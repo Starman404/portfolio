@@ -121,7 +121,8 @@ document.addEventListener('DOMContentLoaded', function() {
       'Convertisseur de fichier': 'project-converter',
       'FastSushi': 'project-fastsushi',
       'Cobblemon team planner': 'project-cobblemon',
-      'Projet Banque': 'project-banque'
+      'Projet Banque': 'project-banque',
+      'Origin creator': 'project-origin'
     };
     
     // Function to open modal with specific project content
